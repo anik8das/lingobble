@@ -6,7 +6,7 @@
 	"permissions": ["identity"],
 	"action": {
 		"default_icon": "images/icon-16.png",
-		"default_popup": "pages/popup.html"
+		"default_popup": "pages/welcome.html"
 	},
 	"icons": {
 		"16": "images/icon-16.png",
