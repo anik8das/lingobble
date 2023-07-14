@@ -3,7 +3,11 @@
 	"name": "Lingobble",
 	"version": "1.0",
 	"description": "Review googled words until you know them",
-
+	"permissions": ["identity"],
+	"action": {
+		"default_icon": "images/icon-16.png",
+		"default_popup": "pages/popup.html"
+	},
 	"icons": {
 		"16": "images/icon-16.png",
 		"32": "images/icon-32.png",
